@@ -7,3 +7,8 @@ This is upgraded "Little PA" board with better RF-PA chip with more RF power
 - The heatsink and cooler fan are mandatory !
 
 - Z32IT
+
+
+You can order from here:
+
+<a href="https://www.pcbway.com/project/shareproject/BIG_PA_SPOT_SX1255_HAT_dd64679f.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
