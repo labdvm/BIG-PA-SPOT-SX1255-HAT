@@ -1,5 +1,6 @@
 # BIG-PA-SPOT-SX1255-HAT
 This is upgraded "Little PA" board with better RF-PA chip with more RF power
+- V1.2 refreshed
 - Added 4 pin connector for I2C OLED Display.
 - The L2,L3,L4,L5,L6 must be "wirewound" for better Q factor.
 - 40pin (2x20) RPI connector must be with long legs (do not use standard connector) !
