@@ -5,7 +5,8 @@ This is upgraded "Little PA" board with better RF-PA chip with more RF power
 - The L2,L3,L4,L5,L6 must be "wirewound" for better Q factor.
 - 40pin (2x20) RPI connector must be with long legs (do not use standard connector) !
 - The capacitors from the 100pF and below must be with 1% tolerance or better.
-- You can use custom made heatsink for the PA, the max. heatsink dimension is 44mm x 27mm, the distance from the pcb and heatsink must be 2.5mm, the thermal pad from the PA chip and heatsink is 2.5mm or 3mm.
+- You can use custom made heatsink for the PA, the max. heatsink dimension is 44mm x 27mm.
+- Use M2 brass with 3mm height for the heatsink mounting and 21~24W/mK 4mm thermal pad for the RF chip.
 - The heatsink and cooler fan are mandatory !
 
 - Z32IT
